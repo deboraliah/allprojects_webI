@@ -13,7 +13,7 @@
 | Projeto 1 | [Acessar](https://deboraliah.github.io/Projeto_01-WebI/) |
 | Projeto 2 | [Acessar](https://deboraliah.github.io/Projeto_02-WebI/) |
 | Projeto 3 | [Acessar](https://deboraliah.github.io/Projeto_03-WebI/) |
-| Projeto 4 | [Acessar]() |
+| Projeto 4 | [Acessar](https://deboraliah.github.io/Projeto_04-WebI/) |
 | Projeto 5 | [Acessar](https://deboraliah.github.io/Projeto_05-WebI/) |
 | Projeto 6 | [Acessar](https://deboraliah.github.io/Projeto_06-WebI/) |
 | Projeto 7 | [Acessar]() |
